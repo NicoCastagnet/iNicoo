@@ -1,7 +1,7 @@
 ## 👋 Hi 
 ### Trying to become a full stack web developer.
 
-I’m currently learning JavaScrip, and always trying to learn more things. But i already know:
+I’m currently learning JavaScript, and always trying to learn more things. But i already know:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
